@@ -38,4 +38,6 @@ By leveraging these insights, we aim to optimize our sales strategy, improve cus
 Conclusion:
 This analysis highlights the importance of understanding customer preferences and market dynamics. With this knowledge, we can continually refine our offerings and enhance the overall customer experience.
 
-@Ayushi0214 @WsCubeTech
+![Screenshot (63)](https://github.com/user-attachments/assets/b4e3be44-3039-4518-b9df-61edb51385ab)
+![Screenshot (64)](https://github.com/user-attachments/assets/5da79a59-e357-4361-84fd-1a16d927ee03)
+
