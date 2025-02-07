@@ -1,8 +1,8 @@
-#Dominos_Pizza_Sales_Analysis_Dashboard: Comprehensive Insights and Trends🍕
+###Dominos_Pizza_Sales_Analysis_Dashboard: Comprehensive Insights and Trends🍕
 
 I’m thrilled to share the outcome of our latest data analysis project on Domino's pizza sales! Our team created a detailed dashboard using Power BI to uncover valuable insights and trends. Here’s a snapshot of our findings:
 
-#Key_Insights:
+###Key_Insights:
 
 🔹Total Revenue Generated: ₹24.54M
 
